@@ -1,0 +1,132 @@
+[
+    {
+        "url": "https://source.unsplash.com/random/?nature",
+        "id": "1",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random",
+        "id": "2",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?person",
+        "id": "3",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?stars",
+        "id": "4",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?car",
+        "id": "5",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?italy",
+        "id": "6",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?food",
+        "id": "7",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?movie",
+        "id": "8",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?book",
+        "id": "9",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?film",
+        "id": "10",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?city",
+        "id": "11",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?sea",
+        "id": "12",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?mountains",
+        "id": "13",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?sweets",
+        "id": "14",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?building",
+        "id": "15",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?pet",
+        "id": "16",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?animal",
+        "id": "17",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?africa",
+        "id": "18",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?america",
+        "id": "19",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?europe",
+        "id": "20",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?asia",
+        "id": "21",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?royal",
+        "id": "22",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?australia",
+        "id": "23",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?group",
+        "id": "24",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?magazine",
+        "id": "25",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random/?village",
+        "id": "26",
+        "isFavorite": false
+    }
+]

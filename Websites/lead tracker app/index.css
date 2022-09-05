@@ -1,0 +1,92 @@
+* {
+    box-sizing: borderbox;
+   
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    min-width: 400px;
+}
+
+img {
+    size: 100%;
+    object-fit: cover;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 0;
+    height: 10vh;
+    padding: 0;
+}
+
+ul {
+list-style: none;
+margin: 0;
+padding: 0;
+}
+
+li {
+  padding: 10px;
+    border-left:#7FBCD2 solid 1px;
+    
+
+}
+
+main {
+    height: 90vh;
+    margin-top: 0;
+    background-color: #7FBCD2;
+    background-image: url("home-decor.jpg");
+    background-size: cover;
+    background-position-y: -200px;
+    color: black;
+    text-shadow: 1px 1px 2 black;
+}
+
+main > h1 {
+    font-size: 80px;
+    position: relative;
+    left: 100px;
+    top: 120px;
+    opacity: 1;
+    margin: 0;
+}
+
+main > h3 {
+    font-size: 30px;
+    position: relative;
+    left: 300px;
+    top: 250px;
+    font-weight: 300;
+
+}
+
+main > p {
+    position: relative;
+    left: 300px;
+    top: 250px;
+    max-width: 60%;
+    font-weight: 300;
+}
+
+main > a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #7FBCD2;
+    font-weight: 700;
+    text-shadow: 2px 2px 2 black;
+    box-shadow: 2px 2px 1 black;
+    position: relative;
+    top: 320px;
+    left: 1050px;
+    border: none;
+    border-radius: 3px;
+    padding: 15px 25px;
+    background-color: #FFEEAF;
+
+}
