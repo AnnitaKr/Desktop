@@ -1,0 +1,132 @@
+[
+    {
+        "url": "https://source.unsplash.com/nature",
+        "id": "1",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/random",
+        "id": "2",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/person",
+        "id": "3",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/stars",
+        "id": "4",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/car",
+        "id": "5",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/travel",
+        "id": "6",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/it",
+        "id": "7",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/movie",
+        "id": "8",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/book",
+        "id": "9",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/film",
+        "id": "10",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/city",
+        "id": "11",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/sea",
+        "id": "12",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/mountains",
+        "id": "13",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/study",
+        "id": "14",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/building",
+        "id": "15",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/pet",
+        "id": "16",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/animal",
+        "id": "17",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/africa",
+        "id": "18",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/america",
+        "id": "19",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/europe",
+        "id": "20",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/asia",
+        "id": "21",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/royal",
+        "id": "22",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/australia",
+        "id": "23",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/group",
+        "id": "24",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/magazine",
+        "id": "25",
+        "isFavorite": false
+    },
+    {
+        "url": "https://source.unsplash.com/village",
+        "id": "26",
+        "isFavorite": false
+    }
+]
